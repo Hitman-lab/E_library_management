@@ -7,5 +7,11 @@ A library management system where admin can view/delete librarian and librarian 
 >Frontend 
 
 HTML/CSS <br/>
-Bootstrap <br/>
-w3Css
+Bootstrap/w3Css <br/>
+
+>Backend
+
+JSP <br>
+Servlet <br>
+JDBC <br>
+Oracle
