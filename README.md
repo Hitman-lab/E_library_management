@@ -6,6 +6,6 @@ A library management system where admin can view/delete librarian and librarian 
 **Screenshots and Project description added into the seperate doc file**
 >Frontend 
 
-HTML/CSS
-Bootstrap
+HTML/CSS <br/>
+Bootstrap <br/>
 w3Css
