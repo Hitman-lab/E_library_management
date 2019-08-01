@@ -1,2 +1,3 @@
 # E_library_management
-E_LIBRARY 
+
+A library management system where admin can view/delete librarian and librarian can add/view books, issue, view issued books and return books.
